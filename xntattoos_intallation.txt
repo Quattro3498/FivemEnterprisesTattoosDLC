@@ -1,0 +1,527 @@
+Hey! remember to add this code in "AllTattoos.json"!!
+
+(if you have an error in the alltattoos file, check that the beginning of the custom tattoos and the end of the tattoos already present in the file there is a "," that closes the code.)
+   
+for more support visit our discord! https://discord.gg/aUsykSKtEz
+
+
+{
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tee_000",
+        "HashNameMale": "MP_Sum2_Tee_000_M",
+        "HashNameFemale": "MP_Sum2_Tee_000_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tee_001",
+        "HashNameMale": "MP_Sum2_Tee_001_M",
+        "HashNameFemale": "MP_Sum2_Tee_001_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_000",
+        "HashNameMale": "MP_Sum2_Tat_000_M",
+        "HashNameFemale": "MP_Sum2_Tat_000_F",
+        "Zone": "ZONE_HEAD",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_001",
+        "HashNameMale": "MP_Sum2_Tat_001_M",
+        "HashNameFemale": "MP_Sum2_Tat_001_F",
+        "Zone": "ZONE_HEAD",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_002",
+        "HashNameMale": "MP_Sum2_Tat_002_M",
+        "HashNameFemale": "MP_Sum2_Tat_002_F",
+        "Zone": "ZONE_LEFT_LEG",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_003",
+        "HashNameMale": "MP_Sum2_Tat_003_M",
+        "HashNameFemale": "MP_Sum2_Tat_003_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_004",
+        "HashNameMale": "MP_Sum2_Tat_004_M",
+        "HashNameFemale": "MP_Sum2_Tat_004_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_005",
+        "HashNameMale": "MP_Sum2_Tat_005_M",
+        "HashNameFemale": "MP_Sum2_Tat_005_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_006",
+        "HashNameMale": "MP_Sum2_Tat_006_M",
+        "HashNameFemale": "MP_Sum2_Tat_006_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_007",
+        "HashNameMale": "MP_Sum2_Tat_007_M",
+        "HashNameFemale": "MP_Sum2_Tat_007_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_008",
+        "HashNameMale": "MP_Sum2_Tat_008_M",
+        "HashNameFemale": "MP_Sum2_Tat_008_F",
+        "Zone": "ZONE_LEFT_ARM",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_009",
+        "HashNameMale": "MP_Sum2_Tat_009_M",
+        "HashNameFemale": "MP_Sum2_Tat_009_F",
+        "Zone": "ZONE_LEFT_ARM",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_010",
+        "HashNameMale": "MP_Sum2_Tat_010_M",
+        "HashNameFemale": "MP_Sum2_Tat_010_F",
+        "Zone": "ZONE_LEFT_ARM",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_011",
+        "HashNameMale": "MP_Sum2_Tat_011_M",
+        "HashNameFemale": "MP_Sum2_Tat_011_F",
+        "Zone": "ZONE_RIGHT_ARM",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_012",
+        "HashNameMale": "MP_Sum2_Tat_012_M",
+        "HashNameFemale": "MP_Sum2_Tat_012_F",
+        "Zone": "ZONE_RIGHT_ARM",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_013",
+        "HashNameMale": "MP_Sum2_Tat_013_M",
+        "HashNameFemale": "MP_Sum2_Tat_013_F",
+        "Zone": "ZONE_RIGHT_ARM",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_014",
+        "HashNameMale": "MP_Sum2_Tat_014_M",
+        "HashNameFemale": "MP_Sum2_Tat_014_F",
+        "Zone": "ZONE_LEFT_LEG",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_015",
+        "HashNameMale": "MP_Sum2_Tat_015_M",
+        "HashNameFemale": "MP_Sum2_Tat_015_F",
+        "Zone": "ZONE_LEFT_LEG",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_016",
+        "HashNameMale": "MP_Sum2_Tat_016_M",
+        "HashNameFemale": "MP_Sum2_Tat_016_F",
+        "Zone": "ZONE_LEFT_LEG",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_017",
+        "HashNameMale": "MP_Sum2_Tat_017_M",
+        "HashNameFemale": "MP_Sum2_Tat_017_F",
+        "Zone": "ZONE_RIGHT_LEG",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_018",
+        "HashNameMale": "MP_Sum2_Tat_018_M",
+        "HashNameFemale": "MP_Sum2_Tat_018_F",
+        "Zone": "ZONE_HEAD",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_019",
+        "HashNameMale": "MP_Sum2_Tat_019_M",
+        "HashNameFemale": "MP_Sum2_Tat_019_F",
+        "Zone": "ZONE_HEAD",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_020",
+        "HashNameMale": "MP_Sum2_Tat_020_M",
+        "HashNameFemale": "MP_Sum2_Tat_020_F",
+        "Zone": "ZONE_HEAD",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_021",
+        "HashNameMale": "MP_Sum2_Tat_021_M",
+        "HashNameFemale": "MP_Sum2_Tat_021_F",
+        "Zone": "ZONE_HEAD",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_022",
+        "HashNameMale": "MP_Sum2_Tat_022_M",
+        "HashNameFemale": "MP_Sum2_Tat_022_F",
+        "Zone": "ZONE_HEAD",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_023",
+        "HashNameMale": "MP_Sum2_Tat_023_M",
+        "HashNameFemale": "MP_Sum2_Tat_023_F",
+        "Zone": "ZONE_HEAD",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_024",
+        "HashNameMale": "MP_Sum2_Tat_024_M",
+        "HashNameFemale": "MP_Sum2_Tat_024_F",
+        "Zone": "ZONE_HEAD",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_025",
+        "HashNameMale": "MP_Sum2_Tat_025_M",
+        "HashNameFemale": "MP_Sum2_Tat_025_F",
+        "Zone": "ZONE_HEAD",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_026",
+        "HashNameMale": "MP_Sum2_Tat_026_M",
+        "HashNameFemale": "MP_Sum2_Tat_026_F",
+        "Zone": "ZONE_HEAD",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_027",
+        "HashNameMale": "MP_Sum2_Tat_027_M",
+        "HashNameFemale": "MP_Sum2_Tat_027_F",
+        "Zone": "ZONE_HEAD",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_028",
+        "HashNameMale": "MP_Sum2_Tat_028_M",
+        "HashNameFemale": "MP_Sum2_Tat_028_F",
+        "Zone": "ZONE_LEFT_ARM",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_029",
+        "HashNameMale": "MP_Sum2_Tat_029_M",
+        "HashNameFemale": "MP_Sum2_Tat_029_F",
+        "Zone": "ZONE_LEFT_ARM",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_030",
+        "HashNameMale": "MP_Sum2_Tat_030_M",
+        "HashNameFemale": "MP_Sum2_Tat_030_F",
+        "Zone": "ZONE_RIGHT_ARM",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_031",
+        "HashNameMale": "MP_Sum2_Tat_031_M",
+        "HashNameFemale": "MP_Sum2_Tat_031_F",
+        "Zone": "ZONE_RIGHT_ARM",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_032",
+        "HashNameMale": "MP_Sum2_Tat_032_M",
+        "HashNameFemale": "MP_Sum2_Tat_032_F",
+        "Zone": "ZONE_LEFT-LEG",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_033",
+        "HashNameMale": "MP_Sum2_Tat_033_M",
+        "HashNameFemale": "MP_Sum2_Tat_033_F",
+        "Zone": "ZONE_RIGHT_LEG",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_034",
+        "HashNameMale": "MP_Sum2_Tat_034_M",
+        "HashNameFemale": "MP_Sum2_Tat_034_F",
+        "Zone": "ZONE_RIGHT_LEG",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_035",
+        "HashNameMale": "MP_Sum2_Tat_035_M",
+        "HashNameFemale": "MP_Sum2_Tat_035_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_036",
+        "HashNameMale": "MP_Sum2_Tat_036_M",
+        "HashNameFemale": "MP_Sum2_Tat_036_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_037",
+        "HashNameMale": "MP_Sum2_Tat_037_M",
+        "HashNameFemale": "MP_Sum2_Tat_037_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_038",
+        "HashNameMale": "MP_Sum2_Tat_038_M",
+        "HashNameFemale": "MP_Sum2_Tat_038_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_039",
+        "HashNameMale": "MP_Sum2_Tat_039_M",
+        "HashNameFemale": "MP_Sum2_Tat_039_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_040",
+        "HashNameMale": "MP_Sum2_Tat_040_M",
+        "HashNameFemale": "MP_Sum2_Tat_040_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_041",
+        "HashNameMale": "MP_Sum2_Tat_041_M",
+        "HashNameFemale": "MP_Sum2_Tat_041_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_042",
+        "HashNameMale": "MP_Sum2_Tat_042_M",
+        "HashNameFemale": "MP_Sum2_Tat_042_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_043",
+        "HashNameMale": "MP_Sum2_Tat_043_M",
+        "HashNameFemale": "MP_Sum2_Tat_043_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_044",
+        "HashNameMale": "MP_Sum2_Tat_044_M",
+        "HashNameFemale": "MP_Sum2_Tat_044_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_045",
+        "HashNameMale": "MP_Sum2_Tat_045_M",
+        "HashNameFemale": "MP_Sum2_Tat_045_F",
+        "Zone": "ZONE_RIGHT_ARM",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_046",
+        "HashNameMale": "MP_Sum2_Tat_046_M",
+        "HashNameFemale": "MP_Sum2_Tat_046_F",
+        "Zone": "ZONE_RIGHT_ARM",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_047",
+        "HashNameMale": "MP_Sum2_Tat_047_M",
+        "HashNameFemale": "MP_Sum2_Tat_047_F",
+        "Zone": "ZONE_RIGHT_ARM",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_048",
+        "HashNameMale": "MP_Sum2_Tat_048_M",
+        "HashNameFemale": "MP_Sum2_Tat_048_F",
+        "Zone": "ZONE_RIGHT_ARM",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_049",
+        "HashNameMale": "MP_Sum2_Tat_049_M",
+        "HashNameFemale": "MP_Sum2_Tat_049_F",
+        "Zone": "ZONE_LEFT_ARM",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_050",
+        "HashNameMale": "MP_Sum2_Tat_050_M",
+        "HashNameFemale": "MP_Sum2_Tat_050_F",
+        "Zone": "ZONE_RIGHT_LEG",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_051",
+        "HashNameMale": "MP_Sum2_Tat_051_M",
+        "HashNameFemale": "MP_Sum2_Tat_051_F",
+        "Zone": "ZONE_RIGHT_LEG",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_052",
+        "HashNameMale": "MP_Sum2_Tat_052_M",
+        "HashNameFemale": "MP_Sum2_Tat_052_F",
+        "Zone": "ZONE_RIGHT_LEG",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_053",
+        "HashNameMale": "MP_Sum2_Tat_053_M",
+        "HashNameFemale": "MP_Sum2_Tat_053_F",
+        "Zone": "ZONE_LEFT_LEG",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_054",
+        "HashNameMale": "MP_Sum2_Tat_054_M",
+        "HashNameFemale": "MP_Sum2_Tat_054_F",
+        "Zone": "ZONE_LEFT_LEG",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_055",
+        "HashNameMale": "MP_Sum2_Tat_055_M",
+        "HashNameFemale": "MP_Sum2_Tat_055_F",
+        "Zone": "ZONE_LEFT_LEG",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_056",
+        "HashNameMale": "MP_Sum2_Tat_056_M",
+        "HashNameFemale": "MP_Sum2_Tat_056_F",
+        "Zone": "ZONE_LEFT_LEG",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_057",
+        "HashNameMale": "MP_Sum2_Tat_057_M",
+        "HashNameFemale": "MP_Sum2_Tat_057_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_058",
+        "HashNameMale": "MP_Sum2_Tat_058_M",
+        "HashNameFemale": "MP_Sum2_Tat_058_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_059",
+        "HashNameMale": "MP_Sum2_Tat_059_M",
+        "HashNameFemale": "MP_Sum2_Tat_059_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_060",
+        "HashNameMale": "MP_Sum2_Tat_060_M",
+        "HashNameFemale": "MP_Sum2_Tat_060_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_061",
+        "HashNameMale": "MP_Sum2_Tat_061_M",
+        "HashNameFemale": "MP_Sum2_Tat_061_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
+    {
+        "Collection": "mpsum2_overlays",
+        "Name": "MP_Sum2_Tat_062",
+        "HashNameMale": "MP_Sum2_Tat_062_M",
+        "HashNameFemale": "MP_Sum2_Tat_062_F",
+        "Zone": "ZONE_TORSO",
+        "Price": 999
+    },
